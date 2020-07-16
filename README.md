@@ -6,4 +6,4 @@ Hi! I'm Kieran and I develop Websites!
 - 📫 How to reach me: kieran.milligan@gmail.com
 - ⚡ Fun fact: Facts are both Fun and Usefull!!!
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Kieran815/count.svg)
