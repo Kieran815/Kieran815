@@ -5,7 +5,7 @@
 AngularJS, and I am proficient in React. I like doing markdown for content editing since it sources so nicely with gatsby. PHP is WAY easier than I was trying to make it. Angular is legit, but I think I still prefer react because you have to build everything, which makes me love my code more. JavaScript is my favorite because it covers frontend and back end. I'm working with databases and sourcing. SQL is so straight forward.... But I see a big push in the future to mostly headless cms like firebase, aws, heroku and others. I think I want to become the fabled All-Powerful Front-End Developer. But you can feel free to hire me for whatever: I can totally do it all.
 ### 📫 How to reach me: 
 - kieran.milligan@gmail.com
-- <a href="tel:7086296259">(708) 629-6259 (google voice)</a>
+- [(708) 629-6259 (google voice)](tel:7086296259)
 - <a href="https://www.linkedin.com/in/kieran-milligan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
