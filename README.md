@@ -1,8 +1,9 @@
 ## Hi! I'm Kieran and I develop Websites!
 
-### 🔭 I’m currently working on the Microtrain Coding Bootcamp, in addition to freelance web development projects, mostly using JS and it's frameworks.
-### 🌱 I’m currently learning:
-AngularJS, and I am proficient in React. I like doing markdown for content editing since it sources so nicely with gatsby. PHP is WAY easier than I was trying to make it. Angular is legit, but I think I still prefer react because you have to build everything, which makes me love my code more. JavaScript is my favorite because it covers frontend and back end. I'm working with databases and sourcing. SQL is so straight forward.... But I see a big push in the future to mostly headless cms like firebase, aws, heroku and others. I think I want to become the fabled All-Powerful Front-End Developer. But you can feel free to hire me for whatever: I can totally do it all.
+### 🔭 I build Single Page and Progressive Web Applications, mostly using JS and it's frameworks.
+I enjoy working with JavaScript because I can do Front-End and Back-End development in the same language.
+I am proficient in React. Angular is legit, but I still prefer react working in react because you have to build components from scratch, which makes me love my code more.  I like doing markdown for content editing since it sources so nicely with gatsby. I'm learning the finer points of back-end development and I enjoy JAM Stacks.
+
 ### 📫 How to reach me: 
 - kieran.milligan@gmail.com
 - [(708) 629-6259 (google voice)](tel:7086296259)
