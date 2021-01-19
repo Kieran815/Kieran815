@@ -6,7 +6,7 @@ AngularJS, and I am proficient in React. I like doing markdown for content editi
 ### 📫 How to reach me: 
 - kieran.milligan@gmail.com
 - <a href="tel:+1-708-629-6259">(708) 629-6259 (google voice)</a>
-- Call of Cthulhu (preferred method)
+- <a href="https://www.linkedin.com/in/kieran-milligan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
 Note: I may have wiped out my git history pre-February 2020. I thought I was cleaning up my repos by adding them all to one directory and sourcing from there. I wasn't and it didn't... o_0 Made a big mess, but I have most of my repos pre-August 2020 fixed, when I began bootcamp. You live, you learn, you break it, you fix it. Thanks for your understanding and 
